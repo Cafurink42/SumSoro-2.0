@@ -41,6 +41,9 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
             border: none;
             background-color:transparent;
         }
+        .exit{ 
+            margin-left: 10px;
+        }
          
     </style>
     <title>SumSoro</title>
@@ -54,6 +57,7 @@ if (!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true) {
                 <path fill-rule="evenodd" d="M.146 8.354a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L1.707 7.5H10.5a.5.5 0 0 1 0 1H1.707l2.147 2.146a.5.5 0 0 1-.708.708z" />
             </svg>
         </a>
+        <span class  = "exit">Exit</span>
 
         <a class="navbar-toggler" href="logout.php" id="buttonLogout">
             <svg xmlns="http://www.w3.org/2000/svg" width="40" height="30" fill="currentColor" class="bi bi-x-circle" viewBox="0 0 16 16">
