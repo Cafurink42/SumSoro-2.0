@@ -140,13 +140,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.silocc.com.au%2Fwp-content%2Fuploads%2F2019%2F03%2FIMG_1454.jpg&f=1&nofb=1&ipt=228874f321bad5ee3dfb169c1a029f16c5f3fc0e95c7d8947c73a1c371f7694d&ipo=images" class="d-block w-100" alt="...">
+        <img src="https://www.comprerural.com/wp-content/uploads/2021/05/credito-para-produtor-rural-1.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.silocc.com.au%2Fwp-content%2Fuploads%2F2019%2F03%2FIMG_1454.jpg&f=1&nofb=1&ipt=228874f321bad5ee3dfb169c1a029f16c5f3fc0e95c7d8947c73a1c371f7694d&ipo=images" class="d-block w-100" alt="...">
+        <img src="https://cdn.pixabay.com/photo/2019/08/26/22/19/cows-4432957_1280.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.silocc.com.au%2Fwp-content%2Fuploads%2F2019%2F03%2FIMG_1454.jpg&f=1&nofb=1&ipt=228874f321bad5ee3dfb169c1a029f16c5f3fc0e95c7d8947c73a1c371f7694d&ipo=images" class="d-block w-100" alt="...">
+        <img src="https://img.freepik.com/fotos-premium/silos-industriais-para-producao-de-leite-alimenticio-por-tanque-de-aco-inoxidavel_478515-69.jpg" class="d-block w-100" alt="...">
       </div>
     </div>
   </div>
